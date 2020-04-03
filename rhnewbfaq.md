@@ -3,18 +3,10 @@
 Autor: InVerse (28/02/2003)  
 Tradução e Conversão para Markdown: Hellstrike12
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=
-
 ## Introdução
 
 O propósito deste guia é introduzir principiantes ao universo das _Hack ROMs_ com direções para que encontrem a informação que desejam. Este guia
  NÃO te ensinará como criar uma _Hack ROM_, ele te mostrará onde encontrar informação sobre _ROM Hacking_, como começar e erros a serem evitados.
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=
 
 ## Tabela de Conteúdos
 
@@ -38,17 +30,10 @@ O propósito deste guia é introduzir principiantes ao universo das _Hack ROMs_ 
 18. Créditos
 19. Contato
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=
-
 ## Histórico do Documento
 
 28/02/2003 - v1.00 - Lançamento inicial
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=
 ## Seção I - (O Básico)
 
 * O que é a ROM?
@@ -147,12 +132,4 @@ O propósito deste guia é introduzir principiantes ao universo das _Hack ROMs_ 
 * Sobre o que essas pessoas estão falando?
 * Como eu saio do "Cenário"?
 
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=
-
 ## Seção I - (O Básico)
-
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=
