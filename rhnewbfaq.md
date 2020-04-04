@@ -1,6 +1,7 @@
-# <center>Guia Definitivo de ROM Hacking para Iniciantes [v1.00]</center>
+# <center>Guia Definitivo de ROM Hacking para Iniciantes</center>
 
-> Autor: InVerse (28/02/2003)  
+> v1.00<br>
+> Autor: InVerse (28/02/2003)<br>
 > Tradução e Conversão para Markdown: Hellstrike12
 
 ***
